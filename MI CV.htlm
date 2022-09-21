@@ -18,11 +18,11 @@
 		}
 
 		legend{
-			border: solid 1px violet;
+			border: solid 1px black;
 			padding: 5px;
 			font-weight: bold;
 			border-radius: 20px;
-			background: lightblue;
+			background: ghostwhite;
 		}
 
 
